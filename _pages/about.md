@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lehong Wang"
+title: "Zilin Dai"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,28 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior double majoring in Robotic Engineering and Computer Engineering at [Worcester Polytechnic Institute](https://www.wpi.edu/) (WPI).
-I am a research assistant at [Robotic Materials Group](https://wp.wpi.edu/roboticmaterialsgroup/) at WPI under the supervision of [Prof. Markus Nemitz](https://www.wpi.edu/people/faculty/mnemitz).
-I have also worked as a research intern in the [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/).
+I am currently a junior majoring in Computer Science at [Worcester Polytechnic Institute](https://www.wpi.edu/) (WPI).
+I am a research assistant at [VISLab@WPI](https://zhang-vislab.github.io/) at WPI under the supervision of [Prof. Ziming Zhang](https://www.wpi.edu/people/faculty/zzhang15).
+I am also working as a research student at [Beth Israel Deaconess Medical Center (Harvard Medical School Teaching Hospital)](https://www.bidmc.org/), advised by [Prof. Feng Tian](https://www.fengtianlab.com/).
+Previously, I have worked at [Robotic Materials Group](https://wp.wpi.edu/roboticmaterialsgroup/) at WPI under the supervision of [Prof. Markus Nemitz](https://www.wpi.edu/people/faculty/mnemitz) and at [Learning Sciences & Technologies center](https://www.wpi.edu/academics/departments/learning-sciences-technologies) with [Prof. Jacob R. Whitehill](https://www.wpi.edu/people/faculty/jrwhitehill). 
 
 My research focuses on the application of additive manufacturing technology to the fabrication of made-to-order robots. 
 My recent works have been on employing computer vision and computer graphics technechnics to improve the manufacturing process.
 
 <p style="text-align: center;"> 
-  <a href="https://lehong-wang.github.io/">Home</a>
+  <a href="https://tc4451.github.io/">Home</a>
   /
-  <a href="https://lehong-wang.github.io//publications/">Publications</a>
+  <a href="https://tc4451.github.io//publications/">Publications</a>
   /
-  <a href="https://lehong-wang.github.io//files/Lehong_Wang_CV_Sep_2023.pdf">CV</a>
+  <a href="https://tc4451.github.io//files/Resume_Zilin_Dai(Jan2024).pdf">CV</a>
 </p>
 
 
 
-<iframe 
+<!-- <iframe 
   width="560" height="315" 
   src="https://www.youtube.com/embed/Q5BHOogOOLo?autoplay=1&mute=1" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
+</iframe> -->
 
