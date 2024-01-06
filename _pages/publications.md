@@ -17,12 +17,10 @@ author_profile: true
 
 <!-- # Research -->
 
-**Lehong Wang**, Savita V. Kendre, Haotian Liu and Markus P. Nemitz. [STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics.](https://arxiv.org/abs/2312.01130) ICRA (Under review)
 
+**Zilin Dai***, Yijia Wu*, Haotian Liu, Lehong Wang and Markus P. Nemitz. [Vision-based FDM Printing for Fabricating Airtight Soft Actuators.](https://arxiv.org/abs/2312.01135) RoboSoft. (Under review)
 
-Zilin Dai, Yijia Wu, Haotian Liu, **Lehong Wang** and Markus P. Nemitz. [Vision-based FDM Printing for Fabricating Airtight Soft Actuators.](https://arxiv.org/abs/2312.01135) RoboSoft (Under review)
+**Zilin Dai**, Andrew McReynolds, Jacob Richard Whitehill. 2023. [In Search of Negative Moments: Multi-Modal Analysis of Teacher Negativity in Classroom Observation Videos.](https://educationaldatamining.org/EDM2023/proceedings/2023.EDM-short-papers.26/2023.EDM-short-papers.26.pdf) International Conference on Educational Data Mining 2023.
 
-
-**Lehong Wang\***, Savita V. Kendre*, Ethan Wilke, Nicholas Pacheco, Loris Fichera and Markus P. Nemitz. [FDM Printing: A Fabrication Method for Fluidic Soft Circuits?](https://arxiv.org/abs/2312.01131) RoboSoft (Under review)
 
 \* Means equal contribution
