@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lehong Wang"
+title                    : "Zilin Dai"
 title_separator          : "-"
-name                     : &name "Lehong Wang"
+name                     : &name "Zilin Dai"
 description              : &description "Undergrad at WPI (Worcester Polytechnic Instituite)"
 url                      : https://lehong-wang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
