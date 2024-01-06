@@ -13,8 +13,9 @@ I am a research assistant at [VISLab@WPI](https://zhang-vislab.github.io/) at WP
 I am also working as a research student at [Beth Israel Deaconess Medical Center (Harvard Medical School Teaching Hospital)](https://www.bidmc.org/), advised by [Prof. Feng Tian](https://www.fengtianlab.com/).
 Previously, I have worked at [Robotic Materials Group](https://wp.wpi.edu/roboticmaterialsgroup/) at WPI under the supervision of [Prof. Markus Nemitz](https://www.wpi.edu/people/faculty/mnemitz) and at [Learning Sciences & Technologies center](https://www.wpi.edu/academics/departments/learning-sciences-technologies) with [Prof. Jacob R. Whitehill](https://www.wpi.edu/people/faculty/jrwhitehill). 
 
-My research focuses on the application of additive manufacturing technology to the fabrication of made-to-order robots. 
-My recent works have been on employing computer vision and computer graphics technechnics to improve the manufacturing process.
+
+My research focuses on the application and optimization of machine learning algorithms. 
+My recent works have been on employing machine learning technechnics to facilitate neurological research, additive manufacturing process, and youth education. I'm currently focusing on optimizing machine learning algorithms using diffusion probalistic models. 
 
 <p style="text-align: center;"> 
   <a href="https://tc4451.github.io/">Home</a>
