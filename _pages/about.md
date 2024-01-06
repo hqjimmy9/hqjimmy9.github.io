@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a junior majoring in Computer Science at [Worcester Polytechnic Institute](https://www.wpi.edu/) (WPI).
-I am a research assistant at [VISLab@WPI](https://zhang-vislab.github.io/) at WPI under the supervision of [Prof. Ziming Zhang](https://www.wpi.edu/people/faculty/zzhang15).
+I am a research assistant at [VISLab@WPI](https://zhang-vislab.github.io/) under the supervision of [Prof. Ziming Zhang](https://www.wpi.edu/people/faculty/zzhang15).
 I am also working as a research student at [Beth Israel Deaconess Medical Center (Harvard Medical School Teaching Hospital)](https://www.bidmc.org/), advised by [Prof. Feng Tian](https://www.fengtianlab.com/).
 Previously, I have worked at [Robotic Materials Group](https://wp.wpi.edu/roboticmaterialsgroup/) at WPI under the supervision of [Prof. Markus Nemitz](https://www.wpi.edu/people/faculty/mnemitz) and at [Learning Sciences & Technologies center](https://www.wpi.edu/academics/departments/learning-sciences-technologies) with [Prof. Jacob R. Whitehill](https://www.wpi.edu/people/faculty/jrwhitehill). 
 
