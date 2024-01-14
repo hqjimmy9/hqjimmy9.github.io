@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zilin Dai"
+title                    : "Jim Huang"
 title_separator          : "-"
-name                     : &name "Zilin Dai"
+name                     : &name "Jim Huang"
 description              : &description "Undergrad at WPI (Worcester Polytechnic Instituite)"
-url                      : https://tc4451.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hqjimmy9.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tc4451.github.io"
+repository               : "hqjimmy9.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tc4451"
+  github           : "hqjimmy9"
   google_plus      :
   keybase          :
   instagram        :
