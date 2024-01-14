@@ -20,7 +20,7 @@ My recent works have been on employing machine learning technechnics to facilita
 <p style="text-align: center;"> 
   <a href="https://hqjimmy9.github.io/">Home</a>
   /
-  <a href="https://hqjimmy9.github.io//publications/">Publications</a>
+  <!--a href="https://hqjimmy9.github.io//publications/">Publications</a-->
   /
   <a href="https://hqjimmy9.github.io//files/Resume_Zilin_Dai(Jan2024).pdf">CV</a>
 </p>
