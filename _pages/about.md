@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zilin Dai"
+title: "Jim Huang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,11 +18,11 @@ My research focuses on the application and optimization of machine learning algo
 My recent works have been on employing machine learning technechnics to facilitate neurological research, additive manufacturing process, and youth education. I'm currently focusing on optimizing machine learning algorithms using diffusion probalistic models. 
 
 <p style="text-align: center;"> 
-  <a href="https://tc4451.github.io/">Home</a>
+  <a href="https://hqjimmy9.github.io/">Home</a>
   /
-  <a href="https://tc4451.github.io//publications/">Publications</a>
+  <a href="https://hqjimmy9.github.io//publications/">Publications</a>
   /
-  <a href="https://tc4451.github.io//files/Resume_Zilin_Dai(Jan2024).pdf">CV</a>
+  <a href="https://hqjimmy9.github.io//files/Resume_Zilin_Dai(Jan2024).pdf">CV</a>
 </p>
 
 
