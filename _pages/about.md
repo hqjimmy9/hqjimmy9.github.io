@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Hello！
+
 My name is Qing Huang, prefer Jim.
 
 I am currently a Master's student major in Mechanical Engineering at Duke University in Durham, NC, expecting graduate with a M.S. in May 2025. I got my bachelor's degree in Robotics Engineering from Worcester Polytechnic Institute (WPI) in Worcester, MA.
