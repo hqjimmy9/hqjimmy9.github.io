@@ -14,7 +14,7 @@ My name is Qing Huang, though I prefer to go by Jim. I am currently pursuing a M
 
 As the sixth engineer in my family, engineering is not just a profession for me, but a proud tradition. Throughout my studies at WPI, my focus was primarily on Robotics and Mechanics, encompassing both hardware and software domains. I thrive in addressing complex challenges and view every problem as an opportunity to innovate and grow.
 
-
+At Duke University, my focus in Robotics and Control. I am extensively involved in advanced control systems, delving into both theoretical and practical applications. Additionally, I am leading the formation of our F1 Tenth team, a project that blends competitive racing with innovative research in autonomous vehicles. This endeavor is not just about competition; it's a platform for real-world application and advancement in robotics.
 
 I invite you to explore my "Projects" section for a detailed overview of my hands-on experience and technical projects. Should you have any questions or wish to discuss potential opportunities, please do not hesitate to reach out.
 
