@@ -11,10 +11,12 @@ author_profile: true
 
 ### [About]({{ base_path }})
 <br/>
+
 <!-- 
-### [Publicaitons]({{ base_path }}/publications/)
+### [Publications]({{ base_path }}/publications/)
 <br/>
 -->
+
 
 ### [Projects]({{ base_path }}/projects/)
 <br/>
