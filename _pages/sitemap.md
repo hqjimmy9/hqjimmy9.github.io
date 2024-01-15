@@ -14,6 +14,7 @@ author_profile: true
 <!-- 
 ### [Publicaitons]({{ base_path }}/publications/)
 <br/>
+-->
 
 ### [Projects]({{ base_path }}/projects/)
 <br/>
