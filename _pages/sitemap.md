@@ -21,7 +21,7 @@ author_profile: true
 ### [Projects]({{ base_path }}/projects/)
 <br/>
 
-### [CV]({{ base_path }}/Resume-Qing Huang - work - ME.pdf)
+### [CV]({{ base_path }}files\Resume-Qing Huang - work - ME.pdf)
 
 
 

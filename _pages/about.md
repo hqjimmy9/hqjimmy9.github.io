@@ -20,7 +20,7 @@ As the sixth engineer in my family, I am deeply proud to be an engineer. During 
   <a href="https://hqjimmy9.github.io/">Home</a>
   /
   <!--a href="https://hqjimmy9.github.io//publications/">Publications</a-->
-  <a href="https://hqjimmy9.github.io//files/Resume_Zilin_Dai(Jan2024).pdf">Resume</a>
+  <a href="https://hqjimmy9.github.io//files/Resume_Zilin_Dai(Jan2024).pdf">CV</a>
   /
   <a href="https://hqjimmy9.github.io//projects/">Projects</a>
 </p>
