@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hello！
+Hello!
 
-My name is Qing Huang, prefer Jim.
+My name is Qing Huang, though I prefer to go by Jim. I am currently pursuing a Master’s degree in Mechanical Engineering at Duke University in Durham, NC, with an expected graduation date of May 2025. My academic journey began at Worcester Polytechnic Institute (WPI) in Worcester, MA, where I earned a Bachelor's degree in Robotics Engineering.
 
-I am currently a Master's student major in Mechanical Engineering at Duke University in Durham, NC, expecting graduate with a M.S. in May 2025. I got my bachelor's degree in Robotics Engineering from Worcester Polytechnic Institute (WPI) in Worcester, MA.
+As the sixth engineer in my family, engineering is not just a profession for me, but a proud tradition. Throughout my studies at WPI, my focus was primarily on Robotics and Mechanics, encompassing both hardware and software domains. I thrive in addressing complex challenges and view every problem as an opportunity to innovate and grow.
 
-As the sixth engineer in my family, I am deeply proud to be an engineer. During my study at WPI, I focus on Robotics and Mechanics. I do hardware and software, and I am happy with solving related issues. I always treat trouble as my friend on my journey. Please check my project experience in "Projects" and feel free to reach out with any questions. 
+
+
+I invite you to explore my "Projects" section for a detailed overview of my hands-on experience and technical projects. Should you have any questions or wish to discuss potential opportunities, please do not hesitate to reach out.
 
 <p style="text-align: center;"> 
   <a href="https://hqjimmy9.github.io/">Home</a>
   /
   <!--a href="https://hqjimmy9.github.io//publications/">Publications</a-->
-  <a href="https://hqjimmy9.github.io//files/Resume_Zilin_Dai(Jan2024).pdf">CV</a>
+  <a href="https://hqjimmy9.github.io/files/Resume-Qing Huang - work - ME.pdf">CV</a>
   /
   <a href="https://hqjimmy9.github.io//projects/">Projects</a>
 </p>
