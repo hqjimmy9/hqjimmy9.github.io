@@ -11,14 +11,14 @@ author_profile: true
 
 ### [About]({{ base_path }})
 <br/>
-
+<!-- 
 ### [Publicaitons]({{ base_path }}/publications/)
 <br/>
 
 ### [Projects]({{ base_path }}/projects/)
 <br/>
 
-### [CV]({{ base_path }}/files/Lehong_Wang_CV_Sep_2023.pdf)
+### [Resume]({{ base_path }}/files/Resume-Qing Huang - work - ME.pdf)
 
 
 
